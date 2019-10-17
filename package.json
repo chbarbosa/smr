@@ -1,8 +1,8 @@
 {
-  "name": "monitoramento_requerimentos",
+  "name": "smr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chbarbosa.github.io",
+  "homepage": "http://chbarbosa.github.io/smr",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.10.2",
