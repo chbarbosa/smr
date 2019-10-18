@@ -6,7 +6,7 @@ export default props =>
     <div class="container mt-5">
         <h2>Lista de Requerimentos em atraso de seis meses</h2>
         <table className="table table-striped table-hover">
-            <caption>Requerimentos agrupados por procuradoria</caption>
+            <caption>Requerimentos ordenados por procuradoria</caption>
             <thead class="thead-light">
                 <tr>
                     <th scope="col">Número</th>
