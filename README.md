@@ -1,4 +1,4 @@
-### Idea
+## Idea
 
 This a prototype for a tool to monitor some issues for PGFN.
 URL: https://chbarbosa.github.io/smr
