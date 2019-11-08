@@ -1,3 +1,9 @@
+### Idea
+
+This a prototype for a tool to monitor some issues for PGFN.
+URL: https://chbarbosa.github.io/smr
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
